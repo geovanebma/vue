@@ -1,0 +1,8 @@
+Criação de um novo projeto:
+
+npm install -g vue-cli@2.7.0
+npm install vue-resource@1.0.3 --save
+vue --version
+Dentro da pasta que você quer: vue init webpack-simple novoprojeto
+npm install
+npm run dev
